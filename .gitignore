@@ -4,4 +4,6 @@ __pycache__/
 *.aux
 *.log
 .ipynb_checkpoints/
+*.csv
+*.json
 
