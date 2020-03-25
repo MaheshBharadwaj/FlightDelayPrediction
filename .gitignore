@@ -1,6 +1,5 @@
 *.zip
 __pycache__/
-*.tex
 *.aux
 *.log
 .ipynb_checkpoints/
@@ -11,5 +10,4 @@ Untitled.ipynb
 ML\ Project.pdf
 WeatherData/
 FlightData/
-Images/
 TrainedModels/
