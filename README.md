@@ -7,5 +7,4 @@ Two stage model to predict if a flight is delayed and if so, the amount of delay
  - [Merging Flight & Weather datasets](CombineFlight_WeatherData.ipynb)
  - [Classifying flights as delayed or on time flights](Classifier.ipynb)
  - [Predicting the delay in minutes of 'delayed flights'](DelayPrediction.ipynb)
- - [ANN Classifier](ANNClassifier.ipynb)
- - [ANN Delay Prediction](ANNDelayPrediction.ipynb) 
+ - [Report](./FlightDelayPredictionReport.pdf)
